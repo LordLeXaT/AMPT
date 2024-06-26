@@ -10,7 +10,7 @@ Cubcoders AMP Template Repo
 At this point again thanks a lot @ Kimata 
 
 ## Templates
-(c) -> from Cubecoders Repo
+(c) -> from Cubecoders Repo  
 (k) -> from Kimata's Repo  
 
 * Interstellar Rift (k)
