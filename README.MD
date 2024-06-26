@@ -2,7 +2,7 @@
 This repo contains templates for AMP    
 Here you can purchase AMP and get information  
 [Cubecoders AMP](https://cubecoders.com/)  
-Cubcoders AMP Template Repo
+Cubcoders AMP Template Repo  
 [Cubecoders AMPTemplates](https://github.com/CubeCoders/AMPTemplates)  
 
 ## Started with:  
