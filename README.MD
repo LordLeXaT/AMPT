@@ -12,6 +12,8 @@ At this point again thanks a lot @ Kimata
 ## Templates
 (c) -> from Cubecoders Repo  
 (k) -> from Kimata's Repo  
+(gl) -> Greelan's Repo [Template repo of Greelan](https://github.com/Greelan/AMPTemplates)  
 
 * Interstellar Rift (k)
 * Teamspeak3 (c)
+* Aloft (gl)
